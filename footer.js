@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     footer.innerHTML = `
       Made with ♥ by Canadian building design & construction professionals. Powered by OpenAI.<br>
-      © 2026 Codely.ca by Luttec BIM & Design Inc. All rights reserved. Hi sahar
+      © 2026 Codely.ca by Luttec BIM & Design Inc. All rights reserved. Hi sahar a
     `;
 
     document.body.appendChild(footer);
